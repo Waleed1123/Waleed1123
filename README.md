@@ -1,14 +1,14 @@
 
 
 <h2> Hi There
-    <img src="https://github.com/WaleedAsadullah/WaleedAsadullah/blob/main/wave.gif" 
+    <img src="https://github.com/Waleed1123/Waleed1123/blob/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
   </h2><h3> I'm Waleed Ahmed!
 </h3>
 <div >
- <img src="https://github.com/WaleedAsadullah/WaleedAsadullah/blob/main/coding.gif" width="60%"  loop=infinite></div>
+ <img src="https://github.com/Waleed1123/Waleed1123/blob/main/coding.gif" width="60%"  loop=infinite></div>
 
 
 ### Contact
@@ -21,6 +21,15 @@ Reach out to me directly through:
 <a href="https://www.linkedin.com/in/waleedahmed112/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.facebook.com/Waleedahmad112" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/waleedahmed1123/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+
+
 
 ### Tech Stack
 
