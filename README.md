@@ -10,12 +10,14 @@
 <div >
  <img src="https://github.com/Waleed1123/Waleed1123/blob/main/coding.gif" width="60%"  loop=infinite></div>
 
+![Waleed](https://komarev.com/ghpvc/?username=waleed1123&style=flat-square)
+
 
 ### Contact
 
 Reach out to me directly through:
 
-<a href="waleed007896@gmail.com" target="_blank">
+<a href="mailto:waleed007896@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/waleedahmed112/" target="_blank">
@@ -32,6 +34,13 @@ Reach out to me directly through:
 
 
 ### Tech Stack
+
+<div align="center">
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waleed1123&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+    
+</div>
 
 Here's my tech stack I'm currently used to and prefer:
 
@@ -57,8 +66,8 @@ Here's my tech stack I'm currently used to and prefer:
  ### Featured
  
 Check out some projects below 👇
-<!--
-**WaleedAsadullah/WaleedAsadullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **WaleedAsadullah/WaleedAsadullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -69,7 +78,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 
 
